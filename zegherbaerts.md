@@ -1,4 +1,4 @@
-# Zegher Baerts (3XD) - portfolio
+# Zegher Baerts - 3XD
 
 [Link to my portfolio repository](https://github.com/zegher/dev5-portfolios-2023) 
 
