@@ -6,3 +6,4 @@
 | Labo        | Link           | CodeSandbox  |
 | ------------- |:-------------:| -----:|
 | Labo 1 | [Link](https://github.com/zegher/LAB1-DEV5-SPEECH) | [Link](x) |
+| Labo 2 | [Link](https://github.com/zegher/LAB2-islands) | [Link](x) |
